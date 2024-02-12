@@ -40,6 +40,11 @@ The `CardBody.css` file contains styles specific to the `CardBody` component, en
 
 Follow the instructions provided in the "Getting Started" section of the README to clone the repository, install dependencies, and run the application locally.
 
+## Demo
+
+Check out the live demo [here](https://react-shopping-page-basic.netlify.app/).
+
+
 ## Contributing
 
 Contributions to this project are welcome! If you'd like to contribute, please follow the guidelines outlined in the README.
